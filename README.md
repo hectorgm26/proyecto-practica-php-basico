@@ -35,8 +35,7 @@ Este proyecto tiene como objetivo mostrar cómo interactuar con una API utilizan
    Abre el archivo `.php` en tu navegador a través de tu servidor PHP local (por ejemplo, con `localhost/nombre_del_archivo.php`).
 
 ## **Estructura de Archivos**
-- **index.php**: El archivo principal donde se hace la solicitud a la API y se muestra el contenido en la página.
-- **style.css**: Estilos CSS personalizados para el proyecto.
+- **index.php**: El archivo principal donde se hace la solicitud a la API y se muestra el contenido en la página, junto a sus estilos visuales.
 
 ## **Instalación de Dependencias**
 El proyecto utiliza el framework de CSS **Pico CSS**, que se incluye directamente desde una CDN:
