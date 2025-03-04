@@ -45,7 +45,7 @@ curl_close($ch);
   <hgroup>
     <h3> <?php echo $data["title"]; ?> se estrena en: <?php echo $data["days_until"]; ?> días </h3>
     <p>Fecha de estreno: <?php echo $data["release_date"]; ?> </p>
-    <p>La siguiente pelicula/serie a estrenar es: <?php echo $data["following_production"]["title"]; ?> </p>
+    <p>La siguiente película/serie a estrenar es: <?php echo $data["following_production"]["title"]; ?> </p>
   </hgroup>
 </main>
 
